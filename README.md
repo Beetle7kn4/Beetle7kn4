@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beetle7kn4
 - 👀 I’m interested in beetles.
-- 🌱 I’m currently learning JvaScript.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Dung/Beetle
